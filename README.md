@@ -22,15 +22,19 @@ Below is the list of ALU operations I implemented, along with their associated A
  
  ***The addi Instruction***
  - Memory:
+ 
 ![Screen Shot 2022-02-20 at 12 07 51 AM](https://user-images.githubusercontent.com/47617094/154834125-2f1afc0f-ed02-458d-a74b-abe3971aefe3.png)
 
 - Branch Comparator:
+
 ![Screen Shot 2022-02-20 at 12 09 00 AM](https://user-images.githubusercontent.com/47617094/154834160-04f32217-5125-4aae-affc-d6b758126aec.png)
 
 -  Immediate Generator:
+
 ![Screen Shot 2022-02-20 at 12 09 55 AM](https://user-images.githubusercontent.com/47617094/154834187-47a1b0ba-5eef-4daf-be8f-4cb64146510e.png)
 
 -  Processor:
+
 ![Screen Shot 2022-02-20 at 12 10 03 AM](https://user-images.githubusercontent.com/47617094/154834191-de099a58-b619-48b1-a6f2-5a6f05027d63.png)
 
 ![Screen Shot 2022-02-20 at 12 10 11 AM](https://user-images.githubusercontent.com/47617094/154834194-26eba937-d8fb-4592-8df6-03ce03161bb5.png)
